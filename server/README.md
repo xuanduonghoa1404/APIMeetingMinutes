@@ -1,4 +1,3 @@
-# Chuyển tới thư mục cafe-manager-backend
 
 # Chạy lệnh
 
